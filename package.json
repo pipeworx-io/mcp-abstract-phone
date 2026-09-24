@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-abstract-phone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Abstract Phone MCP — wraps Abstract API Phone Validation",
   "type": "module",
   "main": "src/index.ts",
@@ -22,6 +22,11 @@
     "tsx": "^4.19.0"
   },
   "devDependencies": {
-    "typescript": "^5.7.0"
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-9e262a1b27161c1ee9264d1975e2d9a7b46e634429dfd6e8f3b2475217bca2d7",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }

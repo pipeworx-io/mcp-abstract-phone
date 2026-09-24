@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/abstract-phone",
   "title": "Abstract Phone",
   "description": "Abstract Phone MCP — wraps Abstract API Phone Validation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/abstract-phone",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-abstract-phone",
